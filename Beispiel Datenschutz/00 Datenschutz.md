@@ -1,5 +1,5 @@
 # Datenschutz
 
-- [Allgemein](./Beispiel Datenschutz/01 Allgemein)
+- [Allgemein](./Beispiel%20Datenschutz/01%20Allgemein.md)
 
-- [CH - DSG und nDSG](./Beispiel Datenschutz/02 CH - DSG und nDSG)
+- [CH - DSG und nDSG](./Beispiel%20Datenschutz/02%20CH%20-%20DSG%20und%20nDSG.md)
